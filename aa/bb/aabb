@@ -1,1 +1,1 @@
-{"name":"aabb","vers":"0.1.0","deps":[{"name":"ccdd","version"="0.1.0","registry"="myregistry"}],"cksum":"0292b550cf96f98c07c13064d8cd4a82fed6059c01907c4c00cda0afc97d9813","features":{},"yanked":false}
+{"name":"aabb","vers":"0.1.0","deps":[{"name":"ccdd","req"="0.1.0","registry"="myregistry"}],"cksum":"0292b550cf96f98c07c13064d8cd4a82fed6059c01907c4c00cda0afc97d9813","features":{},"yanked":false}
